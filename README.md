@@ -1,4 +1,4 @@
-# simplfi
+# Finstrustor
 
 A new Flutter project.
 
